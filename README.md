@@ -3,8 +3,6 @@
 A simple, interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 Play against the computer and test your luck and logic in this classic game!
 
----
-
 ## Features
 
 - Computer generates random moves
@@ -14,15 +12,11 @@ Play against the computer and test your luck and logic in this classic game!
 - Clean and responsive UI
 - Fast and lightweight (no libraries)
 
----
-
 ## Tech Stack
 
 - **HTML5** – Structure
 - **CSS3** – Styling & layout
 - **JavaScript (Vanilla JS)** – Game logic
-
----
 
 ## Play the Game:-
 
@@ -35,12 +29,9 @@ Play the Snake Game directly in your browser — no install needed!
   </a>
 </p>
 
----
-
 ## Preview
 
 <img width="1917" height="871" alt="proj pic" src="https://github.com/user-attachments/assets/be304b95-2120-4478-ac80-56c6acff6634" />
-
 
 ## Learning Outcomes
 
@@ -56,8 +47,6 @@ Play the Snake Game directly in your browser — no install needed!
 - Scissor beats Paper   
 - Paper beats Rock   
 - Same choice = Draw
-
----
 
 ## Future Improvements
 
