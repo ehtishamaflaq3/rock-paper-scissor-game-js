@@ -5,7 +5,7 @@ Play against the computer and test your luck and logic in this classic game!
 
 ---
 
-## ✨ Features
+## Features
 
 - Computer generates random moves
 - User vs Computer gameplay
@@ -25,7 +25,7 @@ Play against the computer and test your luck and logic in this classic game!
 ---
 
 ## Common Play
-
+https://ehtishamaflaq3.github.io/rock-paper-scissor-game-js/
 ---
 
 ## Game Rules
@@ -43,27 +43,30 @@ Play against the computer and test your luck and logic in this classic game!
 
 ## Learning Outcomes
 
->DOM manipulation
->Event handling
->Conditional logic
->Random number generation
->Clean code structure
+- DOM manipulation
+- Event handling
+- Conditional logic
+- Random number generation
+- Clean code structure
 
 ## Future Improvements
 
->Add sound effects 
->Add animations 
->Add restart/reset button 
->Mobile-friendly enhancements
+- Add sound effects 
+- Add animations 
+- Add restart/reset button 
+- Mobile-friendly enhancements
 
 ## Contributing
 Contributions are welcome!
+
 Feel free to fork this repository and improve the game.
 
 ## Author
 
 Ehtisham Aflaq
+
 Software Engineering Student
+
 Learning JavaScript & Web Development
 
 ## Support
