@@ -16,7 +16,7 @@ Play against the computer and test your luck and logic in this classic game!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Structure
 - **CSS3** – Styling & layout
@@ -24,9 +24,31 @@ Play against the computer and test your luck and logic in this classic game!
 
 ---
 
-## Common Play
-https://ehtishamaflaq3.github.io/rock-paper-scissor-game-js/
+## Play the Game:-
+
+Play the Snake Game directly in your browser — no install needed!
+
+<p align="center">
+  <a href="https://ehtishamaflaq3.github.io/rock-paper-scissor-game-js/
+" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-Click%20Here-green?style=for-the-badge" />
+  </a>
+</p>
+
 ---
+
+## Preview
+
+<img width="1917" height="871" alt="proj pic" src="https://github.com/user-attachments/assets/be304b95-2120-4478-ac80-56c6acff6634" />
+
+
+## Learning Outcomes
+
+- DOM manipulation
+- Event handling
+- Conditional logic
+- Random number generation
+- Clean code structure
 
 ## Game Rules
 
@@ -36,18 +58,6 @@ https://ehtishamaflaq3.github.io/rock-paper-scissor-game-js/
 - Same choice = Draw
 
 ---
-
-## Preview
-
-<img width="1917" height="871" alt="proj pic" src="https://github.com/user-attachments/assets/be304b95-2120-4478-ac80-56c6acff6634" />
-
-## Learning Outcomes
-
-- DOM manipulation
-- Event handling
-- Conditional logic
-- Random number generation
-- Clean code structure
 
 ## Future Improvements
 
