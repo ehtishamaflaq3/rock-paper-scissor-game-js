@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: radial-gradient(circle at top, #1a1a1a, #000);
+    color: white;
+}
+
+/* HEADER */
+#heading {
+    background: linear-gradient(to right,rgb(50, 224, 50),black,blue);
+    color: white;
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem;
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* CHOICES SECTION */
+.choices {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 4rem;
+}
+
+.choice {
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.choice:hover {
+    transform: scale(1.15);
+    box-shadow: 0 0 25px rgba(255, 81, 47, 0.8);
+}
+
+/* IMAGES */
+img {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: none;
+}
+
+/* SCOREBOARD */
+.scoreboard {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    text-align: center;
+}
+
+.scoreboard p {
+    font-size: 1.5rem;
+    opacity: 0.8;
+}
+
+#user-score,
+#comp-score {
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: #ff512f;
+}
+
+/* MESSAGE BOX */
+.msg-container {
+    margin: 50px auto;
+    width: fit-content;
+    padding: 15px 40px;
+    border-radius: 50px;
+    background: linear-gradient(to right, #00f260, #0575e6);
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 0 30px rgba(0, 242, 96, 0.7);
+    animation: pop 0.4s ease;
+}
+
+/* RESULT ANIMATION */
+@keyframes pop {
+    0% {
+        transform: scale(0.6);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
