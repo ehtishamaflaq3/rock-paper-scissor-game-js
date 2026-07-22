@@ -67,9 +67,3 @@ Ehtisham Aflaq
 Software Engineering Student
 
 Learning JavaScript & Web Development
-
-## Support
-
-If you like this project, don’t forget to star ⭐ the repository
-It really motivates me to build more projects!
-
